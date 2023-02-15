@@ -1,4 +1,0 @@
-Coach 111 andrewTate tate1234 180 80 male 28 KickBoxing
-Trainee 222 aliVeli veli1990 195 55 male 24 Gain_Weight 111
-Trainee 333 fatmaOlur fatLoss15 160 70 female 22 Lose_Weight 111
-Coach 444 chrisBumstead mrOlympia 185 115 male 27 BodyBuilding
